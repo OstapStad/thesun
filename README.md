@@ -1,1 +1,1 @@
-# thesun
+# A small project for the Sun
